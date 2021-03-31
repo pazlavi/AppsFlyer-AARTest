@@ -38,5 +38,6 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     implementation files('libs/af-android-sdk-6.2.3.aar')
+    //implementation files('libs/AF-Android-SDK.jar')
 
 }
