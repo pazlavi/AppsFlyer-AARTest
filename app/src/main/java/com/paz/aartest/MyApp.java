@@ -12,7 +12,7 @@ import java.util.Objects;
 
 
 public class MyApp extends Application implements AppsFlyerConversionListener {
-    public final static String KEY = "4ux8wjmC9qP6qc3UWZ5Ldh";
+    public final static String KEY = "REPLACE_WITH_DEV_KEY";
     public final static String LOG_TAG = "AFApplication";
 
 
